@@ -14,9 +14,9 @@ Post body should be input data in CSV format. First threelines are parameters al
 - Seasonality, The time period to compare against.
 
 ```
-    sValue,.99
-    eValue,40
-    Seasonality,7
+sValue,.99
+eValue,40
+Seasonality,7
 ```    
     
 These may be ommited in which case default values will be used.
