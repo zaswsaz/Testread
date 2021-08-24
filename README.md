@@ -7,7 +7,12 @@
 
 ### Input
 
-Post body should be input data in CSV format. First threelines are parameters. 
+Post body should be input data in CSV format. First threelines are parameters also in CSV format. 
+
+    sValue, .99
+    eValue, 40
+    Seasonality, 7
+    
 These may be ommited in which case default values will be used.
 
 - sValue
