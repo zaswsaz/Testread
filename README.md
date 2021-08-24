@@ -20,6 +20,7 @@ Seasonality,7
 ```    
     
 These may be ommited in which case default values will be used.
+
 [Params are followed by data as shown in example input.](https://github.com/zaswsaz/Testread/blob/main/Input.csv)
 
 ### Output
