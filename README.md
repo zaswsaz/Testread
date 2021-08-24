@@ -18,7 +18,6 @@ Post body should be input data in CSV format. First threelines are parameters al
     Seasonality, 7
     
 These may be ommited in which case default values will be used.
-
 [Followed by data as shown in example input.](https://github.com/zaswsaz/Testread/blob/main/Input.csv)
 
 ### Output
