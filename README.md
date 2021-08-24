@@ -9,15 +9,15 @@
 
 Post body should be input data in CSV format. First threelines are parameters also in CSV format. 
 
+- sValue
+- eValue
+- Seasonality, The time period to compare against.
+
     sValue, .99
     eValue, 40
     Seasonality, 7
     
 These may be ommited in which case default values will be used.
-
-- sValue
-- eValue
-- Seasonality, The time period to compare against.
 
 [Followed by data as shown in example input.](https://github.com/zaswsaz/Testread/blob/main/Input.csv)
 
