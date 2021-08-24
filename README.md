@@ -13,6 +13,6 @@
     - eValue
     - Seasonality
 
-    [Followed by data as shown in example input.](
+    [Followed by data as shown in example input.](https://github.com/zaswsaz/Testread/blob/main/Input.csv)
 
     {"id":1,"name":"Foo","status":"new"}
