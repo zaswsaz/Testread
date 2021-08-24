@@ -1,6 +1,6 @@
 ### Control Points API
 
-`POST /thing/`
+`POST https://testread-zaswsaz.vercel.app/controlpoints.py`
 
     'Accept: text/plain'
     'Content-Type: text/csv'
